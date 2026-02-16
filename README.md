@@ -1,8 +1,4 @@
-# Hola! Soy Marcos Osa
-
-<p align="center">
-  <img src="https://github.com/marcos-osa/marcos-osa/raw/main/github_profile_banner_42style_1771241083860.png" alt="Banner" width="100%">
-</p>
+# Hola! Soy Marcos Osa 👋
 
 ### 🎓 Estudiante
 - **UPV**: Grado en Ingeniería Informática Industrial y Robótica.
@@ -21,8 +17,3 @@
 
 ### 📈 Actividad
 - **AoC**: Soluciones para el Advent of Code.
-
----
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcos-osa&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
